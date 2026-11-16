@@ -7,3 +7,5 @@ def divide(a, b):
         print("לא חוקי חילוק באפס")
     else:
         return a / b
+def mul(a,b):
+    return a*b

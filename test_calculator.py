@@ -7,3 +7,5 @@ def test_add():
 
 def test_divide():
      assert divide(3,1)==3
+def test_mul():
+     assert dmul(3,1)==3
