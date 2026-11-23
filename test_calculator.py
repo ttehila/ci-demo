@@ -5,3 +5,5 @@ def test_divide():
      assert divide(3,1)==3
 def test_mul():
      assert mul(3,1)==3
+def test_subtract():
+     assert mul(3,1)==2
